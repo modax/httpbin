@@ -19,6 +19,9 @@ See http://httpbin.org for more information.
 - https://httpbin.org
 - https://hub.docker.com/r/kennethreitz/httpbin/
 
+## Configuration environment variables
+
+* HTTPBIN_MAX_DELAY - maximum number of seconds for /delay/{delay} endpoints. Defaults to 10.
 
 ## SEE ALSO
 
